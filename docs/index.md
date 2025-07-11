@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Owlface Archive"
-  text: "A record and public archive of the work of Nick Rawcliffe AKA Owlface Games in the field of game development."
-  tagline: My great project tagline
+  text: "Public Game Dev Archive"
+  tagline: A record and public archive of the work of Nick Rawcliffe AKA Owlface Games in the field of game development
   actions:
     - theme: brand
       text: Markdown Examples
@@ -15,11 +15,11 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Playable Builds
+    details: Downloadable windows binaries, ROMs & embeded browser builds. Wherever possible the games are playable.
+  - title: Source Code
+    details: No matter how old or bad the code is, it will be avaliable where possible.
+  - title: A Public Record
+    details: Some old code is lost to time but where possible I will provide images, videos and a written desciption of past projects.
 ---
 

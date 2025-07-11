@@ -2,8 +2,9 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/owlface_archive/',
   title: "Owlface Archive",
-  description: "A record and public archive of the work of Nick Rawcliffe AKA Owlface Games in the field of game development.",
+  description: "Public Game Dev Archive",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -22,7 +23,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/OwlfaceGames/owlface_archive' }
     ]
   }
 })
