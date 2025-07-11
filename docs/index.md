@@ -8,6 +8,9 @@ hero:
   tagline: A record and public archive of the work of Nick Rawcliffe AKA Owlface Games in the field of game development
   actions:
     - theme: brand
+      text: Games
+      link: /the_archive
+    - theme: alt 
       text: Markdown Examples
       link: /markdown-examples
     - theme: alt
