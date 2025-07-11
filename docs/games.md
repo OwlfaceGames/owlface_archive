@@ -19,9 +19,30 @@ This page is primarily intended as a list of all of the included games in the ar
 If there is a browser build avaliable it will be playable on the games page.
 
 ::: tip
-This is a tip.
+You can find downloadable binaries for games as GitHub [releases](https://github.com/OwlfaceGames/owlface_archive/releases) and any game source code in the [source_code](https://github.com/OwlfaceGames/owlface_archive/tree/master/source_code) folder in the repo.
+:::
+
+## A Final Warning
+
+There will be bugs, performance issues and given the age of some of these binaries potential compatability issues. Lastly remember to check game pages for controls.
+
+::: danger
+There will be bugs.
 :::
 
 ## Game List
 
 ### Ada’s Alchemy Academy: Shadowy Help In Terror
+
+![Gif of Adas Alchemy Academy](images/ada.gif)
+
+This game was made a part of a game jam I entered in 2024. The themes were "Alchemy" and "Shadows". I took the themes extremely literally and made a game where you crafted potions that created shadows.
+
+The coolest thing about this game is that it is an actual gameboy game that I got running on an actualy gameboy game on the end. Made in GB Studio.
+
+I also remember that the jam was two weeks long but I decided to do it in one for the extra challenge.
+
+::: info
+- **Playable:** Yes 
+- **Source Code:** Yes
+:::
