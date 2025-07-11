@@ -1,15 +1,13 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/owlface_archive/',
   title: "Owlface Archive",
   description: "Public Game Dev Archive",
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'About', link: '/about' }
     ],
 
     sidebar: [
