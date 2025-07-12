@@ -1,2 +1,2 @@
 # Owlface Archive
-A record and archive of the work of Nick Rawcliffe AKA Owlface Games.
+A record and archive of the work of Nick Rawcliffe AKA Owlface Games in the field of game development.
