@@ -19,6 +19,7 @@ I also remember that the jam was two weeks long but I decided to do it in one fo
 - **Project Type:** Jam Game
 - **Platforms:** Game Boy, Browser
 - **Engine:**  GB Studio
+- **Role:** Everything 
 :::
 
 ::: tip
@@ -42,8 +43,33 @@ It's pretty rough but considering how quickly it was made I think it's pretty co
 - **Project Type:** Jam Game
 - **Platforms:** Windows
 - **Engine:** GameMaker 
+- **Role:** Everything (except open source code & asset pack)
 :::
 
 ::: tip
 **You can find the game page [here](./disable.md).**
+:::
+
+### Medieval Dungeon Throwdown (Est. 2013)
+
+![Gif of Medieval Dungeon Throwdown](images/throwdown.gif)
+
+This is one of the first games I ever made. It was made specifically as a portfolio piece at the time to show potential employers. It was made in 24 hours right before a job application, which was successful.
+
+It is a little arcade style mini game that for whatever reason I decided should have a film grain effect complete with vinyl crackle. Considering it was so early on I think it's kinda of interesting that it does have a cohesive aesthetic.
+
+This game was probably made less than twelve months after I starting trying to teach myself how to make games.
+
+::: details
+- **Playable:** Yes 
+- **Source Code:** No
+- **Date:** Est. 2013
+- **Project Type:** Portfolio Piece
+- **Platforms:** Windows
+- **Engine:** GameMaker 
+- **Role:** Everything 
+:::
+
+::: tip
+**You can find the game page [here](./throwdown.md).**
 :::

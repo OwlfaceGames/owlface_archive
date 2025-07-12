@@ -18,6 +18,7 @@ export default defineConfig({
         items: [
           { text: 'Adas Alchemy Academy', link: '/ada' },
           { text: 'Disable Enemies To Reveal Enemies', link: '/disable' },
+          { text: 'Medieval Dungeon Throwdown', link: '/throwdown' },
         ]
       }
     ],

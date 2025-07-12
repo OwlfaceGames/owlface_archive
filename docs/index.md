@@ -11,7 +11,7 @@ hero:
       text: Intro
       link: /intro
     - theme: alt 
-      text: Game List
+      text: Games
       link: /games
     - theme: alt
       text: About

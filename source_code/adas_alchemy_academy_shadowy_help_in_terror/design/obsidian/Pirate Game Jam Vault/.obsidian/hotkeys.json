@@ -1,0 +1,12 @@
+{
+  "obsidian-git:commit-push-specified-message": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "B"
+    }
+  ]
+}

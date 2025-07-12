@@ -1,0 +1,127 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "layers/layer test.tmx",
+    "expandedProjectPaths": [
+    ],
+    "exportAsImage.visibleLayersOnly": true,
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "Level 1.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 4
+        },
+        "layer test.tmx": {
+            "scale": 6.002812499999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 72.71591441511792,
+                "y": 61.97095111666406
+            }
+        },
+        "layers/Level 1.tsx": {
+            "scaleInDock": 1
+        },
+        "layers/layer test.tmx": {
+            "scale": 4.0375,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 77.89473684210527,
+                "y": 79.50464396284832
+            }
+        },
+        "level 1 intro.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 500.16666666666663,
+                "y": 500
+            }
+        },
+        "level 1 tilemap.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 239.33333333333331,
+                "y": 278.66666666666663
+            }
+        },
+        "level 2.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 500.3333333333333,
+                "y": 500
+            }
+        },
+        "level 3.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 536.6666666666665,
+                "y": 401.3333333333333
+            }
+        },
+        "test house scene.tmx": {
+            "scale": 6.043055555555555,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 79.59549528843942,
+                "y": 62.05470006894966
+            }
+        },
+        "test house tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "treeTestScene.tmx": {
+            "scale": 8,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 28.25,
+                "y": 52.375
+            }
+        },
+        "treeTestTiles.tsx": {
+            "scaleInDock": 16,
+            "scaleInEditor": 8
+        }
+    },
+    "last.exportedFilePath": "/Users/nick/Desktop/Owlface Games/Game Dev/Repositories/GBStudioSimulation",
+    "last.externalTilesetPath": "/Users/nick/Desktop/Owlface Games/Game Dev/Repositories/PirateJamGame/design/levels/tiled",
+    "last.imagePath": "/Users/nick/Desktop/Owlface Games/Game Dev/Repositories/PirateJamGame/tempImages",
+    "map.height": 18,
+    "map.lastUsedExportFilter": "GameMaker room files (*.room.gmx)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 20,
+    "openFiles": [
+        "Level 1.tsx",
+        "level 1 intro.tmx",
+        "level 2.tmx",
+        "level 3.tmx",
+        "layers/layer test.tmx"
+    ],
+    "project": "pirateJamGame.tiled-project",
+    "recentFiles": [
+        "Level 1.tsx",
+        "level 1 intro.tmx",
+        "level 2.tmx",
+        "level 3.tmx",
+        "layers/layer test.tmx",
+        "layer test.tmx",
+        "level 1 tilemap.tmx",
+        "treeTestTiles.tsx",
+        "treeTestScene.tmx",
+        "test house tileset.tsx",
+        "test house scene.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    }
+}

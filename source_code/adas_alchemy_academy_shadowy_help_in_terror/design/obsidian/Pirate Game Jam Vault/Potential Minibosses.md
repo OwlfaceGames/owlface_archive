@@ -1,0 +1,1 @@
+At the end of a level you could have to fight mini bosses that are larger goblins that you fight by throwing potions at them shooter style.
