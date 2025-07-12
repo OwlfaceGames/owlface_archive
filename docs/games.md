@@ -32,7 +32,8 @@ There will be bugs.
 
 ## Game List
 
-### Ada’s Alchemy Academy: Shadowy Help In Terror
+### [Ada’s Alchemy Academy: Shadowy Help In Terror](./ada.md)
+
 
 ![Gif of Adas Alchemy Academy](images/ada.gif)
 
@@ -45,4 +46,8 @@ I also remember that the jam was two weeks long but I decided to do it in one fo
 ::: info
 - **Playable:** Yes 
 - **Source Code:** Yes
+- **Date:** July 2024
+- **Project Type:** Jam Game
+- **Platforms:** Game Boy, Browser
+- **Engine:**  GB Studio
 :::
