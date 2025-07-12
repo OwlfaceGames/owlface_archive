@@ -2,7 +2,7 @@
 
 ## Game List
 
-### Ada’s Alchemy Academy: Shadowy Help In Terror
+### Ada’s Alchemy Academy: Shadowy Help In Terror (July 2024)
 
 ![Gif of Adas Alchemy Academy](images/ada.gif)
 
@@ -22,5 +22,28 @@ I also remember that the jam was two weeks long but I decided to do it in one fo
 :::
 
 ::: tip
-**You can find the games page [here](./ada).**
+**You can find the game page [here](./ada).**
+:::
+
+### Disable Enemies To Reveal Enemies (Est. 2016)
+
+![Gif of Disable Enemies To Reveal Enemies](images/disable.gif)
+
+This game was made as part of a game jam in a day. The idea of the jam was that you could pick an episode title of a certain podcast and have that be the theme for your game. This is why I entered because I thought it was a really interesting idea as it made for some very wierd and wonderful themes. 
+
+That is why the game is so bizare. I remember that it also turned out to be a really hard game. I also remeber that one way I was able to make the game in such a short period of time was by using part of the open source Spelunky level generation code plus some platformer asset pack I got off the GameMaker store then just tweak them and thread them together to fit my idea.
+
+It's pretty rough but considering how quickly it was made I think it's pretty cool.
+
+::: details
+- **Playable:** Yes 
+- **Source Code:** No
+- **Date:** Est. 2016
+- **Project Type:** Jam Game
+- **Platforms:** Windows
+- **Engine:** GameMaker 
+:::
+
+::: tip
+**You can find the game page [here](./disable.md).**
 :::

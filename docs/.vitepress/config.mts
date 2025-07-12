@@ -17,6 +17,7 @@ export default defineConfig({
         text: 'Game Pages',
         items: [
           { text: 'Adas Alchemy Academy', link: '/ada' },
+          { text: 'Disable Enemies To Reveal Enemies', link: '/disable' },
         ]
       }
     ],
