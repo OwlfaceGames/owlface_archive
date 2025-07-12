@@ -1,5 +1,17 @@
 # Ada's Alchemy Academy: Shadowy Help In Terror
 
+## Playable Builds & Source Code
+
+This game has two playable builds. A GameBoy ROM version that is playable on a real GameBoy via a flash cart or via an emulator. It also has a browser version. As for source code the original GB Studio project is also avaliable.
+
+::: tip
+- Play browser version [here](./play_ada.md)
+- Download the ROM from [GitHub](https://github.com/OwlfaceGames/owlface_archive/releases)
+- The GB Studio project can be found [here](https://github.com/OwlfaceGames/owlface_archive/tree/master/source_code/adas_alchemy_academy_shadowy_help_in_terror/game)
+:::
+
+## Details
+
 ![](images/ada.gif)
 
 This game was made a part of a game jam I entered in 2024. The themes were "Alchemy" and "Shadows". I took the themes extremely literally and made a game where you crafted potions that created shadows.
@@ -8,15 +20,13 @@ The coolest thing about this game is that it is an actual gameboy game that I go
 
 I also remember that the jam was two weeks long but I decided to do it in one for the extra challenge.
 
-
-## Playable Builds & Source Code
-
-This game had two playable builds. A GameBoy ROM version that is playable on a real GameBoy via a flash cart or via an emulator. It also had a browser version. As for source code the original GB Studio project is also avaliable.
-
-::: tip
-- Play browser version [here](./play_ada.md)
-- Download the ROM from [GitHub](https://github.com/OwlfaceGames/owlface_archive/releases)
-- The GB Studio project can be found [here](https://github.com/OwlfaceGames/owlface_archive/tree/master/source_code/adas_alchemy_academy_shadowy_help_in_terror/game)
+::: info
+- **Playable:** Yes 
+- **Source Code:** Yes
+- **Date:** July 2024
+- **Project Type:** Jam Game
+- **Platforms:** Game Boy, Browser
+- **Engine:**  GB Studio
 :::
 
 ## Original Text From The Itch.io Page 
@@ -30,19 +40,10 @@ Theme (Shadows & Alchemy)
 
 This is literally a game about brewing potions that make shadows.
 
-::: info
-- **Playable:** Yes 
-- **Source Code:** Yes
-- **Date:** July 2024
-- **Project Type:** Jam Game
-- **Platforms:** Game Boy, Browser
-- **Engine:**  GB Studio
-:::
-
-
 ## GameBoy Version
 
-![](images/gameboy.gif)
+![Gif of the game running on GameBoy](images/gameboy.gif)
+
 Here is it running on an actual gameboy.
 
 ## Full Playthrough
