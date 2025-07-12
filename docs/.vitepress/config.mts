@@ -7,15 +7,16 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Games', link: '/games' },
+      { text: 'Intro', link: '/intro' },
       { text: 'About', link: '/about' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Game Pages',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Adas Alchemy Academy', link: '/ada' },
         ]
       }
     ],

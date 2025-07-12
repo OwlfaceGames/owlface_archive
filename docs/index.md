@@ -8,15 +8,14 @@ hero:
   tagline: A record and public archive of the work of Nick Rawcliffe AKA Owlface Games in the field of game development
   actions:
     - theme: brand
-      text: Games
-      link: /games
+      text: Intro
+      link: /intro
     - theme: alt 
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Game List
+      link: /games
     - theme: alt
-      text: API Examples
-      link: /api-examples
-
+      text: About
+      link: /about
 features:
   - title: Playable Builds
     details: Binaries are provided via releases on GitHub. When new binaries are added there will be a new release containing the updated binary archive.
