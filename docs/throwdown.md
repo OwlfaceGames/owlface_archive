@@ -6,7 +6,7 @@ This is one of the first games I ever made. It was made specifically as a portfo
 
 
 ::: tip
-To play, download the Windows binary from GitHub [releases](https://github.com/OwlfaceGames/owlface_archive/releases).
+To play, download the Windows binary from GitHub [releases](https://github.com/OwlfaceGames/owlface_archive/releases). See [controls](#controls) first.
 :::
 
 ## Details
@@ -49,7 +49,7 @@ This applies to every enemy in the game. Every enemy has a fifty percent chance 
 
 This development technique effectively means that each play through is in a sense unique and therefore has the potential for endless appeal. Although in order to create even longer appeal more variables could be added.
 
-### Gameplay Video
+## Gameplay Video
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 1rem 0;">
   <iframe 

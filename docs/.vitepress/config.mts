@@ -5,6 +5,7 @@ export default defineConfig({
   title: "Owlface Archive",
   description: "Public Game Dev Archive",
   themeConfig: {
+
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Games', link: '/games' },
@@ -19,6 +20,8 @@ export default defineConfig({
           { text: 'Adas Alchemy Academy', link: '/ada' },
           { text: 'Disable Enemies To Reveal Enemies', link: '/disable' },
           { text: 'Medieval Dungeon Throwdown', link: '/throwdown' },
+          { text: 'Save The Dwarf', link: '/dwarf' },
+          { text: 'Space Miners', link: '/miners' },
         ]
       }
     ],

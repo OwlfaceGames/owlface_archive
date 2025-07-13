@@ -5,7 +5,7 @@
 This game was made as part of a game jam in a day. The idea of the jam was that you could pick an episode title of a certain podcast and have that be the theme for your game. This is why I entered because I thought it was a really interesting idea as it made for some very wierd and wonderful themes. That is why the game is so bizare. 
 
 ::: tip
-To play, download the Windows binary from GitHub [releases](https://github.com/OwlfaceGames/owlface_archive/releases).
+To play, download the Windows binary from GitHub [releases](https://github.com/OwlfaceGames/owlface_archive/releases). See [controls](#controls) first.
 :::
 
 ## Details

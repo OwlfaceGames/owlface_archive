@@ -8,6 +8,7 @@ This game has two playable builds. A GameBoy ROM version that is playable on a r
 - Play browser version [here](./play_ada.md)
 - Download the ROM from [GitHub](https://github.com/OwlfaceGames/owlface_archive/releases)
 - The GB Studio project can be found [here](https://github.com/OwlfaceGames/owlface_archive/tree/master/source_code/adas_alchemy_academy_shadowy_help_in_terror/game)
+- See [controls](#controls) first.
 :::
 
 ## Score
