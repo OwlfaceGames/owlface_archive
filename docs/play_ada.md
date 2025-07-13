@@ -9,28 +9,6 @@
       src="/browser_games/adas_alchemy_academy_shadowy_help_in_terror/index.html"
       allowfullscreen>
     </iframe>
-    <button 
-      onclick="(function() {
-        const container = document.getElementById('game-container-unique');
-        const iframe = container.querySelector('iframe');
-        
-        // Try different fullscreen methods for mobile compatibility
-        if (iframe.requestFullscreen) {
-          iframe.requestFullscreen();
-        } else if (iframe.webkitRequestFullscreen) {
-          iframe.webkitRequestFullscreen();
-        } else if (iframe.mozRequestFullScreen) {
-          iframe.mozRequestFullScreen();
-        } else if (iframe.msRequestFullscreen) {
-          iframe.msRequestFullscreen();
-        } else {
-          // Fallback: open in new window for mobile
-          window.open('/browser_games/adas_alchemy_academy_shadowy_help_in_terror/index.html', '_blank');
-        }
-      })()"
-      style="position: absolute; top: 10px; right: 10px; z-index: 10; background: rgba(0,0,0,0.7); color: white; border: none; padding: 12px; cursor: pointer; border-radius: 6px; font-size: 20px; width: 44px; height: 44px; display: flex; align-items: center; justify-content: center;">
-      ⛶
-    </button>
   </div>
 </ClientOnly>
 
