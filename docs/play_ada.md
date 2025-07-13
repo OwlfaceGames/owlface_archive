@@ -9,8 +9,27 @@
       src="/browser_games/adas_alchemy_academy_shadowy_help_in_terror/index.html"
       allowfullscreen>
     </iframe>
+    <button 
+      onclick="(function() {
+        const container = document.getElementById('game-container-unique');
+        if (container.requestFullscreen) {
+          container.requestFullscreen();
+        }
+      })()"
+      style="position: absolute; top: 10px; right: 10px; z-index: 10; background: rgba(0,0,0,0.7); color: white; border: none; padding: 12px; cursor: pointer; border-radius: 6px; font-size: 20px; width: 44px; height: 44px; display: flex; align-items: center; justify-content: center;"
+      class="fullscreen-btn">
+      ⛶
+    </button>
   </div>
 </ClientOnly>
+
+<style>
+@media (max-width: 768px) {
+  .fullscreen-btn {
+    display: none !important;
+  }
+}
+</style>
 
 ## Controls
 
