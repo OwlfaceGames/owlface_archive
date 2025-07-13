@@ -6,7 +6,7 @@
     style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 1rem 0; border: 1px solid #ccc;">
     <iframe 
       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"
-      src="/owlface_archive/browser_games/adas_alchemy_academy_shadowy_help_in_terror/index.html"
+      src="/browser_games/adas_alchemy_academy_shadowy_help_in_terror/index.html"
       allowfullscreen>
     </iframe>
     <button 

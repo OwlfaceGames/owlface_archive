@@ -64,7 +64,7 @@ Here is it running on an actual gameboy.
 <div style="position: relative; width: 100%; height: 600px; margin: 1rem 0; border: 1px solid #ccc;">
   <iframe 
     style="width: 100%; height: 100%; border: none;"
-    src="/owlface_archive/design_docs/ada.pdf"
+    src="/design_docs/ada.pdf"
     type="application/pdf">
     <p>Your browser doesn't support PDF embedding. <a href="/path-to-your-pdf.pdf">Download the PDF</a> instead.</p>
   </iframe>
