@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: '/owlface_archive/',
+  base: '/',
   title: "Owlface Archive",
   description: "Public Game Dev Archive",
   themeConfig: {
