@@ -57,7 +57,7 @@ This is literally a game about brewing potions that make shadows.
 
 ![Gif of the game running on GameBoy](images/gameboy.gif)
 
-Here is it running on an actual gameboy.
+Here it is running on an actual gameboy.
 
 ## Design Doc
 
