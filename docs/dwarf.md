@@ -36,7 +36,7 @@ Save The Dwarf is a point and click game where the player controls a small dwarf
 
 #### Level Generation
 
-This game was the product of several programming experiments for randomly generating levels as appose to building them block by block. This idea evolved into a methodology of create a series of level templates, each of which used slightly different methods of generating levels.
+This game was the product of several programming experiments for randomly generating levels as opposed to building them block by block. This idea evolved into a methodology of create a series of level templates, each of which used slightly different methods of generating levels.
 
 This means each template can simply be copied and pasted in order to generate the desired number of levels of a certain construction. Then whenever more variation or new ideas need to be introduced another template can be utilised and then copied and pasted again to create the desired number if new level variations.
 

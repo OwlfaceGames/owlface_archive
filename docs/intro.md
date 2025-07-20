@@ -14,9 +14,9 @@ You have been warned.
 
 ## Useful Info
 
-This page is primarily intended as a list of all of the included games in the archive. Each game will also have it's own page with a more detailed description, controls (if it's playable), a link to source code (if included) and a link to any binaries (if included).
+This page is primarily intended as a list of all of the included games in the archive. Each game will also have its own page with a more detailed description, controls (if it's playable), a link to source code (if included) and a link to any binaries (if included).
 
-If there is a browser build avaliable it will be playable on the games page.
+If there is a browser build available it will be playable on the games page.
 
 ::: tip
 You can find downloadable binaries for games as GitHub [releases](https://github.com/OwlfaceGames/owlface_archive/releases) and any game source code in the [source_code](https://github.com/OwlfaceGames/owlface_archive/tree/master/source_code) folder in the repo.
@@ -24,7 +24,7 @@ You can find downloadable binaries for games as GitHub [releases](https://github
 
 ## A Final Warning
 
-There will be bugs, performance issues and given the age of some of these binaries potential compatability issues. Lastly remember to check game pages for controls.
+There will be bugs, performance issues and given the age of some of these binaries potential compatibility issues. Lastly remember to check game pages for controls.
 
 ::: danger
 There will be bugs.

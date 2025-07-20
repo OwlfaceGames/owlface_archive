@@ -8,7 +8,7 @@
 
 This game was made a part of a game jam I entered in 2024. The themes were "Alchemy" and "Shadows". I took the themes extremely literally and made a game where you crafted potions that created shadows.
 
-The coolest thing about this game is that it is an actual gameboy game that I got running on an actualy gameboy game on the end. Made in GB Studio.
+The coolest thing about this game is that it is an actual gameboy game that I got running on an actual gameboy at the end. Made in GB Studio.
 
 I also remember that the jam was two weeks long but I decided to do it in one for the extra challenge.
 
@@ -30,9 +30,9 @@ I also remember that the jam was two weeks long but I decided to do it in one fo
 
 ![Gif of Disable Enemies To Reveal Enemies](images/disable.gif)
 
-This game was made as part of a game jam in a day. The idea of the jam was that you could pick an episode title of a certain podcast and have that be the theme for your game. This is why I entered because I thought it was a really interesting idea as it made for some very wierd and wonderful themes. 
+This game was made as part of a game jam in a day. The idea of the jam was that you could pick an episode title of a certain podcast and have that be the theme for your game. This is why I entered because I thought it was a really interesting idea as it made for some very weird and wonderful themes. 
 
-That is why the game is so bizare. I remember that it also turned out to be a really hard game. I also remeber that one way I was able to make the game in such a short period of time was by using part of the open source Spelunky level generation code plus some platformer asset pack I got off the GameMaker store then just tweak them and thread them together to fit my idea.
+That is why the game is so bizarre. I remember that it also turned out to be a really hard game. I also remember that one way I was able to make the game in such a short period of time was by using part of the open source Spelunky level generation code plus some platformer asset pack I got off the GameMaker store then just tweak them and thread them together to fit my idea.
 
 It's pretty rough but considering how quickly it was made I think it's pretty cool.
 
@@ -64,7 +64,7 @@ Nothing we made really worked out commercially as far as I know but this job gav
 
 In the image above I remember that I designed and programmed every game on the top row. I think maybe also the first on the second row. And. I believe I made all the music and sound effects for all the games.
 
-Obviously I do not own this code. Most if not all of the games are no longer playable as it was so long ago. But I thought it was worth including as this peroid makes up most of the games I have worked on.
+Obviously I do not own this code. Most if not all of the games are no longer playable as it was so long ago. But I thought it was worth including as this period makes up most of the games I have worked on.
 
 ::: details
 - **Playable:** No
@@ -84,13 +84,13 @@ There are no game pages for any of these games as the code is not owned by me an
 
 ![image of Zxill](images/zxill.jpg)
 
-While working at the job I mentioned in the prevoius section we also made a couple of games that we were able to get on to steam via greenlight and release into early access.
+While working at the job I mentioned in the previous section we also made a couple of games that we were able to get on to steam via greenlight and release into early access.
 
-This was one of those games. This game was my idea, my design and I was the only programmer on the project. Plus I got to write all the music, create all the sound effects and write any story and dialouge.
+This was one of those games. This game was my idea, my design and I was the only programmer on the project. Plus I got to write all the music, create all the sound effects and write any story and dialogue.
 
-The idea was to try and make a retro RPG with a unique battle system that revolved around pulling off fighting game style combos. It fell short in the end mostly just due to it never being finished and admirtedly due to my own inexperince. After I stopped working there I don't think development continued. However, I still think if we kept going it could of been something cool.
+The idea was to try and make a retro RPG with a unique battle system that revolved around pulling off fighting game style combos. It fell short in the end mostly just due to it never being finished and admittedly due to my own inexperience. After I stopped working there I don't think development continued. However, I still think if we kept going it could have been something cool.
 
-Nontheless it does appear to still be up on steam. I do not reccomend buying it as it is an unfinished and abandoned game. But in the interest of transparency, here it is.
+Nonetheless it does appear to still be up on steam. I do not recommend buying it as it is an unfinished and abandoned game. But in the interest of transparency, here it is.
 
 ::: details
 - **Playable:** Yes
@@ -107,7 +107,7 @@ There is no game page for this game as I do not own the code nor do I have the r
 :::
 
 ::: warning
-Buying this game is not reccomended. It is unfinished and abandoned.
+Buying this game is not recommended. It is unfinished and abandoned.
 :::
 
 ::: tip
@@ -118,11 +118,11 @@ This game is playable on steam [here](https://store.steampowered.com/app/397830/
 
 ![image of super space meltdown](images/meltdown.jpg)
 
-Pretty much everthing I said about the last project you could also say about this project.
+Pretty much everything I said about the last project you could also say about this project.
 
-However it was a lot more rushed and I think uptimately less finished. The idea was to try and combine ARPG gameplay with click mechanics where you had to keep clicking something to fire your gun
+However it was a lot more rushed and I think ultimately less finished. The idea was to try and combine ARPG gameplay with click mechanics where you had to keep clicking something to fire your gun
 
-Not as cool of an idea as the prevous project but at least it was still kind of interesting.
+Not as cool of an idea as the previous project but at least it was still kind of interesting.
 
 Alas it suffered the same fate and is now long abandoned. However it is also still up on steam.
 
@@ -141,7 +141,7 @@ There is no game page for this game as I do not own the code nor do I have the r
 :::
 
 ::: warning
-Buying this game is not reccomended. It is unfinished and abandoned.
+Buying this game is not recommended. It is unfinished and abandoned.
 :::
 
 ::: tip
@@ -196,7 +196,7 @@ That way I'd have something that felt more finished for my portfolio. In the end
 **You can find the game page [here](./dwarf.md).**
 :::
 
-### Spae Miners: Incident Red Fortune (Est. 2012)
+### Space Miners: Incident Red Fortune (Est. 2012)
 
 ![gif of space miners](images/miners.gif)
 
@@ -206,7 +206,7 @@ However I was pleasantly surprised with how many interesting design ideas there 
 
 It is a puzzle platformer with some relatively interesting mechanics.
 
-I never studied, game development or computer science or anything like that. When I graduated from unibersity I had a bacheolors and a masters in music tech. In my masters we were taught the very basics of python for some basic scripting.
+I never studied, game development or computer science or anything like that. When I graduated from university I had a bachelors and a masters in music tech. In my masters we were taught the very basics of python for some basic scripting.
 
 When I say basic, I mean basic. We only really learnt the basic syntax. However at the time I never thought I'd ever be able to program and it was that experience that made me think maybe, just maybe I could.
 
@@ -214,7 +214,7 @@ My music background made creating music and sound effects easy but pixel art was
 
 I found it difficult to find good tutorials for anything really. All these years later I'm making my own game in C and programming has become my favourite part of the process. I try to never to be an expert and assume that I have something to learn from everyone as even if they can only tell you what you already know you can never learn the basics enough and if it turns out they're a fountain of knowledge, you're waiting with open ears ready to learn instead of closing off that opportunity to improve.
 
-Almost every time I sit down at the computer to start a new project I learn something new and I think that is what I love so much about game development. That and being able to express my creativity in an unparalelled way. Even if ninety percent of this archive is trash.
+Almost every time I sit down at the computer to start a new project I learn something new and I think that is what I love so much about game development. That and being able to express my creativity in an unparalleled way. Even if ninety percent of this archive is trash.
 
 ::: details
 - **Playable:** Yes 

@@ -2,7 +2,7 @@
 
 ## Playable Builds
 
-This game was made as part of a game jam in a day. The idea of the jam was that you could pick an episode title of a certain podcast and have that be the theme for your game. This is why I entered because I thought it was a really interesting idea as it made for some very wierd and wonderful themes. That is why the game is so bizare. 
+This game was made as part of a game jam in a day. The idea of the jam was that you could pick an episode title of a certain podcast and have that be the theme for your game. This is why I entered because I thought it was a really interesting idea as it made for some very weird and wonderful themes. That is why the game is so bizarre. 
 
 ::: tip
 To play, download the Windows binary from GitHub [releases](https://github.com/OwlfaceGames/owlface_archive/releases). See [controls](#controls) first.
@@ -12,7 +12,7 @@ To play, download the Windows binary from GitHub [releases](https://github.com/O
 
 ![Gif of Disable Enemies To Reveal Enemies](images/disable.gif)
 
-I remember that it also turned out to be a really hard game. I also remeber that one way I was able to make the game in such a short period of time was by using part of the open source Spelunky level generation code plus some platformer asset pack I got off the GameMaker store then just tweak them and thread them together to fit my idea.
+I remember that it also turned out to be a really hard game. I also remember that one way I was able to make the game in such a short period of time was by using part of the open source Spelunky level generation code plus some platformer asset pack I got off the GameMaker store then just tweak them and thread them together to fit my idea.
 
 It's pretty rough but considering how quickly it was made I think it's pretty cool.
 

@@ -16,7 +16,7 @@ To play, download the Windows binary from GitHub [releases](https://github.com/O
 
 It is a puzzle platformer with some relatively interesting mechanics.
 
-I never studied, game development or computer science or anything like that. When I graduated from unibersity I had a bacheolors and a masters in music tech. In my masters we were taught the very basics of python for some basic scripting.
+I never studied, game development or computer science or anything like that. When I graduated from university I had a bachelors and a masters in music tech. In my masters we were taught the very basics of python for some basic scripting.
 
 When I say basic, I mean basic. We only really learnt the basic syntax. However at the time I never thought I'd ever be able to program and it was that experience that made me think maybe, just maybe I could.
 
@@ -24,7 +24,7 @@ My music background made creating music and sound effects easy but pixel art was
 
 I found it difficult to find good tutorials for anything really. All these years later I'm making my own game in C and programming has become my favourite part of the process. I try to never to be an expert and assume that I have something to learn from everyone as even if they can only tell you what you already know you can never learn the basics enough and if it turns out they're a fountain of knowledge, you're waiting with open ears ready to learn instead of closing off that opportunity to improve.
 
-Almost every time I sit down at the computer to start a new project I learn something new and I think that is what I love so much about game development. That and being able to express my creativity in an unparalelled way. Even if ninety percent of this archive is trash.
+Almost every time I sit down at the computer to start a new project I learn something new and I think that is what I love so much about game development. That and being able to express my creativity in an unparalleled way. Even if ninety percent of this archive is trash.
 
 ::: info
 - **Playable:** Yes 
@@ -87,7 +87,7 @@ Space: Use door / exit robot.
 0: Go back a level
 
 
-Note: Thier will be a point in the game where the player will 
+Note: There will be a point in the game where the player will 
 get control of certain enemies. To exit this enemy press space. If
 stuck on a level press "R" to restart. If you still can't complete the level
 feel free to skip it by pressing "1".

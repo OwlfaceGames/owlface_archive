@@ -4,15 +4,15 @@
 
 Hi, I'm Nick. My username on GitHub is OwlfaceGames.
 
-I created this archive for many reasons. However the main reason is simply to leave a digital footprint of my work. I've seen and heard various discussions both online and in person about trying to discern what a developer has or hasn't done or what thier skill or experience level may be via thier digital footprint.
+I created this archive for many reasons. However the main reason is simply to leave a digital footprint of my work. I've seen and heard various discussions both online and in person about trying to discern what a developer has or hasn't done or what their skill or experience level may be via their digital footprint.
 
 And, I realised I didn't really have much of a digital footprint myself. The nature of most of my work has meant that pretty much everything has been done in private and none of the code is ever public unless sold on some sort of asset store.
 
 Also, even though some work, (particularly stuff from a really long time ago) could be made public. I always felt kind of ashamed of my old work. As a developer I'm always trying to improve. As a person I also think I am generally very honest with myself. This combined with being a lifelong gamer means I feel I am never delusional about the quality of games I have made.
 
-I feel pretty strongly in fact, that basically everything I've ever made is bad. Knowing this allows me to improve. If I'm delusional and think everything I do is amazing then how can I get any better. Not to mention the fact that I never learned to make games to make the greatest game ever made. I didn't do it for money, to get a job or with some lofty goal of working at my favourite game company.
+I feel pretty strongly in fact, that basically everything I've ever made is bad. Knowing this allows me to improve. If I'm delusional and think everything I do is amazing then how can I get any better. Not to mention the fact that I never learned to make games to make the greatest game ever made. I didn't do it for money, to get a job or with some lofty goal of working at my favorite game company.
 
-No. I learnt how to make games because I love making things. Whether it's music, writing, videos or dev I have always loved the creative process more than anythning else in my life. And when I discovered game dev it was like a new frontier of process enjoying. Finally something that has an endless potential to test every skill I have and many I don't.
+No. I learnt how to make games because I love making things. Whether it's music, writing, videos or dev I have always loved the creative process more than anything else in my life. And when I discovered game dev it was like a new frontier of process enjoying. Finally something that has endless potential to test every skill I have and many I don't.
 
 The worst part of the process for me is when it's over. If there's nothing left to do then it's time for the next thing. And so the cycle continues.
 
@@ -36,11 +36,11 @@ I'd like to start wrapping up with some info about the archive.
 This project does have a public repo that you can find [here](https://github.com/OwlfaceGames/owlface_archive).
 :::
 
-However I as of the time of writing this there is only a GB Studio project included as source code. When I created this project I was hoping I'd have more to post but the reality is I don't own any of the code I wrote commercially and none of it is open source.
+However as of the time of writing this, there is only a GB Studio project included as source code. When I created this project I was hoping I'd have more to post but the reality is I don't own any of the code I wrote commercially and none of it is open source.
 
 Many of the projects in this archive are so old that they are from a time before I even learnt how to use git or any form of source control so everything was just on a hard drive somewhere. I dug through some old drives to find most of the stuff that I've posted in this site but unfortunately only found binaries for the most part. If I do find the source code to any games that weren't made commercially then I will add said source code as and when it is discovered.
 
-Also the intension is for this to be a living project so I will add any new games I make as and when I make them. I'd love to make some games and open source the code just for fun and potentially to aid anyone that is interested.
+Also the intention is for this to be a living project so I will add any new games I make as and when I make them. I'd love to make some games and open source the code just for fun and potentially to aid anyone that is interested.
 
 Lastly when I had this revelation that I should just be radically open about all of my past project originally it was about sharing code for all of my none game dev projects. For games I was just going to upload the binaries somewhere and be done with it. Now we're here I've made a whole site about my old shitty games.
 
@@ -56,4 +56,4 @@ Lastly I just want to say thanks for checking out the archive.
 
 If you're here then presumably you are at least a little curious about my work and for that I grateful. This was a fun project. I'm no web dev so even just by making this site I got to have fun programming and learn something new.
 
-Good luck on your own persuits, whether you're the next John Carmack writing the best code anyone has ever seen or you're just a shitty little solo game dev like me.
+Good luck on your own pursuits, whether you're the next John Carmack writing the best code anyone has ever seen or you're just a shitty little solo game dev like me.
